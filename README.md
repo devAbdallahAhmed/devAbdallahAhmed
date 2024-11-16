@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h3 align="center"></h3>
+<h3 align="center"> </h3>
 <p align="center">
-  <img src="https://www.linkpicture.com/q/back-end-developer-image.jpg" alt="Back-End Developer" width="400" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Back-End Developer" width="400" />
 </p>
