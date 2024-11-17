@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋, I'm Abdallah Ahmed</h1>
-<h3 align="center">A passionate Back-End Developer from Egypt</h3>
+<h3 align="center">A passionate Back-End Developer specializing in Laravel from Egypt</h3>
+
+<h3 align="left">About Me:</h3>
+<p align="left">
+    I'm a dedicated back-end developer with a strong focus on Laravel. I enjoy tackling challenging problems, optimizing performance, and building scalable solutions. I'm always eager to learn and grow, and I'm passionate about writing clean and efficient code.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
