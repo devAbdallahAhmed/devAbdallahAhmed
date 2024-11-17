@@ -1,22 +1,15 @@
 <h1 align="center">Hello 👋, I'm Abdallah Ahmed</h1>
 <h3 align="center">A passionate Back-End Developer specializing in Laravel from Egypt</h3>
 
-<h3 align="left">About Me:</h3>
-<p align="left">
-    I'm a dedicated back-end developer with a strong focus on Laravel. I enjoy tackling challenging problems, optimizing performance, and building scalable solutions. I'm always eager to learn and grow, and I'm passionate about writing clean and efficient code.
-</p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/devabdallah-ahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/abdallah.ahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+### 📝 About Me
+Welcome to my profile!  
+I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving complex problems, building scalable solutions, and optimizing performance. I’m passionate about writing clean and efficient code and always eager to learn and grow.
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠 Languages and Tools
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -41,7 +34,21 @@
   </a>
 </p>
 
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/devabdallah-ahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/abdallah.ahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 <h3 align="center"> </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Back-End Developer" width="400" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Elegant Back-End Development" width="400" />
 </p>
