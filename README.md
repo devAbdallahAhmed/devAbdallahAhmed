@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Abdelwahab Ahmed Shandy
-![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-shandy&color=blue)  
+# 👋 Hello, I'm Abdallah Ahmed 
+![Profile Views](https://komarev.com/ghpvc/?username=devAbdallahAhmed&color=blue)  
 
 ## 🧑‍💻 About Me
 
@@ -50,4 +50,4 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/Followers-+500-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
+[![LinkedIn](https://img.shields.io/badge/Followers-+500-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devabdallah-ahmed)
