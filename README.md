@@ -32,7 +32,7 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 
 ## 🚀 GitHub Activity Overview
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devAbdallahAhmed=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devAbdallahAhmed)
 
 ---
 
