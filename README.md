@@ -1,40 +1,53 @@
-<h1 align="center">Hello 👋, I'm Abdallah Ahmed</h1>
-<h3 align="center">A passionate Back-End Developer specializing in Laravel from Egypt</h3>
+# 👋 Hello, I'm Abdelwahab Ahmed Shandy
+![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-shandy&color=blue)  
+
+## 🧑‍💻 About Me
+
+Welcome to my profile!
+
+I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving complex problems, building scalable solutions, and optimizing performance. I’m passionate about writing clean and efficient code and always eager to learn and grow.
 
 ---
 
-### 📝 About Me
-Welcome to my profile!  
-I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving complex problems, building scalable solutions, and optimizing performance. I’m passionate about writing clean and efficient code and always eager to learn and grow.
+## 🛠️ Skills & Technologies
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-228B22?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Database](https://img.shields.io/badge/-Database-F39C12?logo=database&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-2965F1?logo=css3&logoColor=white)
 
 ---
 
-### 🛠 Skills and Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+## 📚 Projects
+- [**Programming-Challenges-CPlusPlus](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) - Advanced programming challenges in C++.
+  
+---
+
+## 🚀 GitHub Activity Overview
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devAbdallahAhmed=radical)
+
+---
+
+### 🏆 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devAbdallahAhmed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/devabdallah-ahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="[Fecobook](https://www.facebook.com/profile.php?id=100033218716724&locale=ar_AR)" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
+### 📊 Repository Highlights
+- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-4-brightgreen)
+  
 ---
 
-<h3 align="center"> </h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Back-End Developer" width="400" />
-</p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/Followers-+500-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
