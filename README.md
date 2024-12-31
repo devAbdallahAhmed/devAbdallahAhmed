@@ -45,7 +45,7 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 ---
 
 ### 📊 Repository Highlights
-- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-4-brightgreen)
+- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-4-brightgreen-https://github.com/devAbdallahAhmed?tab=repositories)
   
 ---
 
