@@ -27,6 +27,7 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 ---
 
 ## 📚 Projects
+  - [**Invoices project in Laravel](https://github.com/devAbdallahAhmed/invoices_project.php) - Invoices project in Laravel.
   - [**Programming-Challenges-CPlusPlus](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) - Advanced programming challenges in C++.
   - [**Advanced-Challenges-CPlusPlus](https://github.com/devAbdallahAhmed/Advanced-Challenge-CPlusPlus) - Advanced programming challenges in C++.
   - [**Crud-Mvc-Project](https://github.com/devAbdallahAhmed/crud-mvc.php) - MVC project in php.
