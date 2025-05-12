@@ -5,7 +5,7 @@
 
 Welcome to my profile!
 
-I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving complex problems, building scalable solutions, and optimizing performance. I’m passionate about writing clean and efficient code and always eager to learn and grow.
+I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving complex problems, building scalable solutions, and optimizing performance. I’m passionate about writing clean and efficient code and always eager to learn and grow.
 
 ---
 
@@ -27,12 +27,12 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 ---
 
 ## 📚 Projects
-  - [**Invoices project in Laravel](https://github.com/devAbdallahAhmed/invoices_project.php) - Invoices project in Laravel.
-  -  [**Hotel-Booking-Managemen.php]( https://github.com/devAbdallahAhmed/Hotel-Booking-Managemen.php) - Hotel-Booking-Managemen.php
-  - [**Programming-Challenges-CPlusPlus](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) - Advanced programming challenges in C++.
-  - [**Advanced-Challenges-CPlusPlus](https://github.com/devAbdallahAhmed/Advanced-Challenge-CPlusPlus) - Advanced programming challenges in C++.
-  - [**Crud-Mvc-Project](https://github.com/devAbdallahAhmed/crud-mvc.php) - MVC project in php.
- 
+  - [**Invoices Project in Laravel**](https://github.com/devAbdallahAhmed/invoices_project.php) - Invoices project built using Laravel.
+  - [**Hotel Booking Management System**](https://github.com/devAbdallahAhmed/Hotel-Booking-Management) - A hotel booking management system.
+  - [**Programming Challenges in C++**](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) - Advanced programming challenges in C++.
+  - [**Advanced Challenges in C++**](https://github.com/devAbdallahAhmed/Advanced-Challenges-CPlusPlus) - More advanced programming challenges in C++.
+  - [**CRUD MVC Project**](https://github.com/devAbdallahAhmed/crud-mvc.php) - A basic MVC CRUD project built using PHP.
+
 ---
 
 ## 🚀 GitHub Activity Overview
@@ -51,7 +51,7 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 
 ### 📊 Repository Highlights
 - **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-6-brightgreen)
-  
+
 ---
 
 ## 📫 Connect with Me
