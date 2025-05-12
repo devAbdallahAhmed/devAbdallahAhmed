@@ -9,18 +9,19 @@ I'm a dedicated Back-End Developer with a focus on Laravel. I enjoy solving comp
 
 ---
 
-## 🛠️ Skills & Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-228B22?style=flat-square&logo=csharp&logoColor=white)
+## 🛠️ Back-End Skills & Technologies
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![API Status](https://img.shields.io/badge/API-Available-brightgreen?logo=api&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Database](https://img.shields.io/badge/-Database-F39C12?logo=database&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 💻 Front-End Skills & Technologies
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-2965F1?logo=css3&logoColor=white)
 
