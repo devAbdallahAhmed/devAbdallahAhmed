@@ -12,30 +12,35 @@ Welcome to my profile!
 
 ---
 
-## 🛠️ Back-End Skills & Technologies
 
+
+## 💼 Skills & Technologies
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![API](https://img.shields.io/badge/API-Available-brightgreen?logo=api&logoColor=white)
-![Database](https://img.shields.io/badge/-Database-F39C12?logo=database&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-## 💻 Front-End Skills & Technologies
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-Available-blue?logo=postman&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-228B22?logo=oop&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID-0078D4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
+![EERD](https://img.shields.io/badge/EERD-4B8BBE?logo=diagram&logoColor=white)
+![Relational Schemas](https://img.shields.io/badge/Relational%20Schemas-16A085?logo=table&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Database](https://img.shields.io/badge/Database-F39C12?logo=database&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF5722?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-2965F1?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ### 📚 Platforms & Certifications
 
 
-[![Udemy Laravel Certificate](https://img.shields.io/badge/Udemy-Laravel%20Projects-EC5252?logo=udemy&logoColor=white)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-21899421-bfcd-416c-9c2a-582ae96228b4.pdf)
+[![Udemy Laravel Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-21899421-bfcd-416c-9c2a-582ae96228b4.pdf)
 [![PHP & MySQL](https://img.shields.io/badge/Course-PHP%20%26%20MySQL-blue?logo=php&logoColor=white)](https://chat.openai.com/share/file-UCzs4P6DMcijS44aiGoBj6)
 ## 📚 Projects
 
