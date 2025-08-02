@@ -40,7 +40,7 @@ Welcome to my profile!
 ### 📚 Platforms & Certifications
 
 [![(Sprints) Laravel Certificate](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view)]
-[![PHP & MySQL](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view)]
+[![PHP & MySQL](https://img.shields.io/badge/Course-PHP%20%26%20MySQL-blue?logo=php&logoColor=white)](https://chat.openai.com/share/file-UCzs4P6DMcijS44aiGoBj6)
 
 ## 📚 Projects
 
