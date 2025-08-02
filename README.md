@@ -39,9 +39,9 @@ Welcome to my profile!
 
 ### 📚 Platforms & Certifications
 
-
-[![Udemy Laravel Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-21899421-bfcd-416c-9c2a-582ae96228b4.pdf)
+[![(Sprints) Laravel Certificate](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view)]
 [![PHP & MySQL](https://img.shields.io/badge/Course-PHP%20%26%20MySQL-blue?logo=php&logoColor=white)](https://chat.openai.com/share/file-UCzs4P6DMcijS44aiGoBj6)
+
 ## 📚 Projects
 
 | Name | Description | Tech | Status |
