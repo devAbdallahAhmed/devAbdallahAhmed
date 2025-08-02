@@ -69,7 +69,7 @@ Welcome to my profile!
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/Followers-500-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devabdallah-ahmed)
+[![LinkedIn](https://img.shields.io/badge/linkedin-500-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devabdallah-ahmed)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAbdallahAhmed)
 
 > ⚡ Thanks for visiting my profile — Let’s collaborate and build something great together!
