@@ -46,8 +46,7 @@ Welcome to my profile!
 
 | Name | Description | Tech | Status |
 |------|-------------|------|--------|
-https://github.com/devAbdallahAhmed/multi-vendor-store
-| 🧾 [Multi Vendor Store  Project](https://github.com/devAbdallahAhmed/multi-vendor-store) |Multi Vendor Store  | Laravel, PHP , MYSQL| ✅ Completed |
+| 🏪 [Multi Vendor Store  Project](https://github.com/devAbdallahAhmed/multi-vendor-store) |Multi Vendor Store  | Laravel, PHP , MYSQL| ✅ Completed |
 | 🧾 [Invoices Project](https://github.com/devAbdallahAhmed/invoices_project.php) | Invoicing system built with Laravel | Laravel, PHP | ✅ Completed |
 | 🏨 [Hotel Booking Management](https://github.com/devAbdallahAhmed/Hotel-Booking-Management) | Hotel booking system with user auth | Laravel, SQL | ✅ Completed |
 | 🎯 [Programming Challenges](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) | Algorithmic & logic challenges | C++ | ✅ Completed |
