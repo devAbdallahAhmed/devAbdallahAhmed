@@ -42,7 +42,6 @@ Welcome to my profile!
 | :--- | :--- | :--- |
 | 🛡️ **Web Development Fundamentals** | ![Sprints](https://img.shields.io/badge/Sprints-Black?style=flat&logo=target) | [View Certificate ↗️](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view?usp=drive_link) |
 | 🎓 **Full Stack Development using PHP** | ![ITI](https://img.shields.io/badge/ITI-Red?style=flat&logo=education) | [View Certificate ↗️](https://drive.google.com/file/d/1v16YXSQzG2n6LfAbsexzv2CJQDHKeRxj/view?usp=drive_link) |
-## 📚 Projects
 
 ## 📚 Featured Projects
 
