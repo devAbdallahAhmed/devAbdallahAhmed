@@ -36,12 +36,12 @@ Welcome to my profile!
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
+## 🏆 Platforms & Certifications
 
-### 📚 Platforms & Certifications
-
-[![(Sprints) Laravel Certificate](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view)]
-[![PHP & MySQL](https://img.shields.io/badge/Course-PHP%20%26%20MySQL-blue?logo=php&logoColor=white)](https://chat.openai.com/share/file-UCzs4P6DMcijS44aiGoBj6)
-
+| Certification | Provider | Link |
+| :--- | :--- | :--- |
+| 🛡️ **Web Development Fundamentals** | ![Sprints](https://img.shields.io/badge/Sprints-Black?style=flat&logo=target) | [View Certificate ↗️](https://drive.google.com/file/d/1K0hwJhhiS2Gw3OFo8K20lYDxHymrPqa8/view?usp=drive_link) |
+| 🎓 **Full Stack Development using PHP** | ![ITI](https://img.shields.io/badge/ITI-Red?style=flat&logo=education) | [View Certificate ↗️](https://drive.google.com/file/d/1v16YXSQzG2n6LfAbsexzv2CJQDHKeRxj/view?usp=drive_link) |
 ## 📚 Projects
 
 ## 📚 Featured Projects
