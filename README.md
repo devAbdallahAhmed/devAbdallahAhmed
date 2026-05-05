@@ -44,15 +44,15 @@ Welcome to my profile!
 
 ## 📚 Projects
 
-| Name | Description | Tech | Status |
-|------|-------------|------|--------|
-| 🏪 [Multi Vendor Store  Project](https://github.com/devAbdallahAhmed/multi-vendor-store) |Multi Vendor Store  | Laravel, PHP , MYSQL| ✅ Completed |
-| 🧾 [Invoices Project](https://github.com/devAbdallahAhmed/invoices_project.php) | Invoicing system built with Laravel | Laravel, PHP | ✅ Completed |
-| 🏨 [Hotel Booking Management](https://github.com/devAbdallahAhmed/Hotel-Booking-Management) | Hotel booking system with user auth | Laravel, SQL | ✅ Completed |
-| 🎯 [Programming Challenges](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus) | Algorithmic & logic challenges | C++ | ✅ Completed |
-| ⚙️ [Advanced C++ Challenges](https://github.com/devAbdallahAhmed/Advanced-Challenges-CPlusPlus) | Higher-level C++ problems | C++ | ✅ Completed |
-| 🔄 [CRUD MVC App](https://github.com/devAbdallahAhmed/crud-mvc.php) | Basic CRUD using MVC pattern | PHP, MVC | ✅ Completed |
+## 📚 Featured Projects
 
+| Project | Key Tech Stack | Status | Highlights |
+| :--- | :--- | :--- | :--- |
+| 🏪 **[Multi Vendor Store](https://github.com/devAbdallahAhmed/multi-vendor-store)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | `✅ Completed` | Multi-vendor dashboards & Role-based access. |
+| 🧾 **[Invoices System](https://github.com/devAbdallahAhmed/invoices_project.php)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | `✅ Completed` | Professional invoicing with AJAX notifications. |
+| 🏨 **[Hotel Management](https://github.com/devAbdallahAhmed/Hotel-Booking-Management)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) | `✅ Completed` | Full booking cycle and user authentication. |
+| 🎯 **[Logic Challenges](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | `✅ Completed` | 100+ Algorithms & Problem Solving. |
+| 🔄 **[CRUD MVC App](https://github.com/devAbdallahAhmed/crud-mvc.php)** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![MVC](https://img.shields.io/badge/Pattern-MVC-orange) | `✅ Completed` | Standard MVC architecture implementation. |
 ---
 
 ## 📊 GitHub Overview
