@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/devAbdallahAhmed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;Freelance+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;Freelance+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=devAbdallahAhmed&color=2563EB&style=flat-square">
+  <a href="https://github.com/devAbdallahAhmed">
     <img src="https://komarev.com/ghpvc/?username=devAbdallahAhmed&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
@@ -18,7 +18,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 - 🔭 I’m currently working as a **Freelance Backend Developer** and contributing to AI data evaluation models.
 - ⚙️ **Specialized in:** `PHP 8.2`, `Laravel 11`, API Design, and Database Architecture.
-- 🔗 **Integrations & Automations:** Experienced in implementing `Stripe` payments, and complex `n8n` / `Telegram bot` automation workflows.
+- 🔗 **Integrations:** Experienced in implementing `Stripe` payment gateways and Telegram bot workflows.
 - 💡 **Core Philosophy:** Writing clean, maintainable code adhering to **SOLID principles**, **OOP**, and **MVC** design patterns.
 
 ---
@@ -45,9 +45,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 ### 🔧 Tools, Workflows & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ---
@@ -58,8 +56,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 | :--- | :--- | :--- |
 | 🏪 **[Multi-Vendor E-Commerce](https://github.com/devAbdallahAhmed/multi-vendor-store)** | ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) | Built from scratch with role-based access (Customer/Vendor/Admin), dynamic cart, and integrated **Stripe** payment gateway. |
 | 🧾 **[Invoices Management System](https://github.com/devAbdallahAhmed/invoices_project.php)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Professional invoicing architecture with heavy database query optimizations and dynamic administrative workflows. |
-| 🤖 **E-Commerce Automations (n8n)** | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) | Engineered 80+ node n8n workflows for Shopify order management and interactive Telegram bot cart sessions. |
-| 🏨 **[Hotel Management API](https://github.com/devAbdallahAhmed/Hotel-Booking-Management)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![Postman](https://img.shields.io/badge/API-FF6C37?style=flat&logo=postman&logoColor=white) | Complete booking cycle, room management, and secure user authentication backend. |
+| 🏨 **[Hotel Management System](https://github.com/devAbdallahAhmed/Hotel-Booking-Managemen.php)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white) | Complete booking cycle, room management, and secure user authentication backend utilizing Laravel and Blade templating. |
 | 🎯 **[Algorithms & Logic](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Collection of 100+ solved algorithmic challenges demonstrating strong problem-solving fundamentals. |
 
 ---
