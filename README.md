@@ -40,11 +40,11 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 ### 💻 Frontend (Full-Stack Support)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Css](https://img.shields.io/badge/Css-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🔧 Tools, Workflows & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ---
