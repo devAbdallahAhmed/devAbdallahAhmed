@@ -77,11 +77,6 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAbdallahAhmed&show_icons=true&theme=react&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&hide_border=true&cache_seconds=86400&v=1" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6&cache_seconds=86400&v=1" height="195" alt="Top Languages" />
-</div>
----
 
 ## 🌐 Let's Connect & Collaborate!
 
