@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/devAbdallahAhmed">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;ـjunior+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;junior+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
