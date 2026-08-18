@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/devAbdallahAhmed">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;Freelance+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdallah+Ahmed+👋;ـjunior+Backend+Developer;Laravel+%26+PHP+Enthusiast;Architecting+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,7 +39,6 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 ### 💻 Frontend (Full-Stack Support)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -79,10 +78,9 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAbdallahAhmed&show_icons=true&theme=react&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devAbdallahAhmed&show_icons=true&theme=react&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&hide_border=true&cache_seconds=86400&v=1" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6&cache_seconds=86400&v=1" height="195" alt="Top Languages" />
 </div>
-
 ---
 
 ## 🌐 Let's Connect & Collaborate!
