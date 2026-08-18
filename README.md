@@ -27,7 +27,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 ### 🌐 Backend & Core
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11&&12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11&12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
