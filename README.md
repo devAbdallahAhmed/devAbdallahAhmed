@@ -17,7 +17,7 @@
 I am a dedicated **Backend Software Developer** and **IT Infrastructure Student** with a strong focus on building robust, scalable web applications and RESTful APIs. I thrive on solving complex backend logic, designing efficient relational databases, and automating business workflows.
 
 - 🔭 I’m currently working as a **Freelance Backend Developer** and contributing to AI data evaluation models.
-- ⚙️ **Specialized in:** `PHP 8.2`, `Laravel 11`, API Design, and Database Architecture.
+- ⚙️ **Specialized in:** `PHP 8.2`, `Laravel 11 & 12`, API Design, and Database Architecture.
 - 🔗 **Integrations:** Experienced in implementing `Stripe` payment gateways and Telegram bot workflows.
 - 💡 **Core Philosophy:** Writing clean, maintainable code adhering to **SOLID principles**, **OOP**, and **MVC** design patterns.
 
@@ -27,7 +27,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 ### 🌐 Backend & Core
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
