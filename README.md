@@ -71,9 +71,17 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <a href="https://github.com/devAbdallahAhmed">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAbdallahAhmed&theme=react&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph"/>
+  </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6&cache_seconds=86400&v=1" height="195" alt="Top Languages" />
+</div>
 
 <br>
 
