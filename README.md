@@ -46,6 +46,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 ### 🔧 Tools, Workflows & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -70,10 +71,9 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/devAbdallahAhmed">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAbdallahAhmed&theme=react&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
+
 
 <br>
 
