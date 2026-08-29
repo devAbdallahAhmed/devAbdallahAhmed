@@ -79,8 +79,8 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6" height="195" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6&cache_seconds=86400&v=1" height="195" alt="Top Languages" />
 </div>
 
 <br>
