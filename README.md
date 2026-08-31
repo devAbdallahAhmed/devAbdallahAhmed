@@ -18,8 +18,8 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 - 🔭 I’m currently working as a **Freelance Backend Developer** and contributing to AI data evaluation models.
 - ⚙️ **Specialized in:** `PHP 8.2`, `Laravel 11 & 12`, API Design, and Database Architecture.
-- 🔗 **Integrations:** Experienced in implementing `Stripe` payment gateways and Telegram bot workflows.
-- 💡 **Core Philosophy:** Writing clean, maintainable code adhering to **SOLID principles**, **OOP**, and **MVC** design patterns.
+- 🔗 **Integrations:** Experienced in implementing `Stripe`, `PayPal`, and Telegram bot workflows.
+- 💡 **Core Philosophy:** Writing clean, maintainable code adhering to **SOLID principles**, **OOP**, **DRY**, and **MVC** design patterns.
 
 ---
 
@@ -46,7 +46,8 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 ### 🔧 Tools, Workflows & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -54,7 +55,7 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 | Project | Key Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏪 **[Multi-Vendor E-Commerce](https://github.com/devAbdallahAhmed/multi-vendor-store)** | ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) | Built from scratch with role-based access (Customer/Vendor/Admin), dynamic cart, and integrated **Stripe** payment gateway. |
+| 🚀 **[Multi-Vendor Digital Marketplace](https://github.com/devAbdallahAhmed/Multi-Vendor-Digital-Marketplace)**<br><br>🔗 **[API Docs (Postman)](https://documenter.getpostman.com/view/36684922/2sBYAuRWMz)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)<br>![API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) | A comprehensive **Hybrid Application** (Web + RESTful APIs) built with Service Classes for clean architecture. Features **KYC Verification**, Role-Based Access (RBAC), and secure integrations with **Stripe & PayPal**. |
 | 🧾 **[Invoices Management System](https://github.com/devAbdallahAhmed/invoices_project.php)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Professional invoicing architecture with heavy database query optimizations and dynamic administrative workflows. |
 | 🏨 **[Hotel Management System](https://github.com/devAbdallahAhmed/Hotel-Booking-Managemen.php)** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white) | Complete booking cycle, room management, and secure user authentication backend utilizing Laravel and Blade templating. |
 | 🎯 **[Algorithms & Logic](https://github.com/devAbdallahAhmed/Programming-Challenges-CPlusPlus)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Collection of 100+ solved algorithmic challenges demonstrating strong problem-solving fundamentals. |
@@ -80,11 +81,10 @@ I am a dedicated **Backend Software Developer** and **IT Infrastructure Student*
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAbdallahAhmed&theme=react&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=react&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true&langs_count=6&cache_seconds=86400&v=1" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAbdallahAhmed&layout=compact&theme=dark&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <br>
-
 
 ## 🌐 Let's Connect & Collaborate!
 
